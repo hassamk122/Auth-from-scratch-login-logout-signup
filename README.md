@@ -1,1 +1,1 @@
-express backend with simple ejs frontend.
+express backend with simple ejs frontend + mongodb
